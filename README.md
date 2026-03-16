@@ -25,9 +25,9 @@
 ```yaml
 name: Mathieu Sellier
 location: France
-passions: [Computer Science, Agriculture]
-currently: Building tools at the intersection of tech & agri
-philosophy: "Code like you plant — with patience and purpose"
+passions: Computer Science, Agriculture, Techonlogy
+currently: IT project manager at Clôtures et Portails de France
+philosophy: A good dev is a lazy dev
 ```
 
 ---
@@ -36,11 +36,17 @@ philosophy: "Code like you plant — with patience and purpose"
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=assemblyscript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
 
 **Frameworks & Tools**
 
@@ -54,13 +60,11 @@ philosophy: "Code like you plant — with patience and purpose"
 
 ## 🚀 Projects
 
-> *Update this section with your actual projects!*
-
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🌾 **AgroTrack** | Field monitoring & crop management tool | Python, React |
-| 📡 **SoilSense** | IoT sensor data aggregation for soil health | Node.js, MQTT |
-| 🗂️ **FarmLog** | Digital logbook for agricultural operations | TypeScript, SQLite |
+| 🌾 **farm-website** | Field monitoring, crop management, local weather station connection & weather forecast API | Javascript (React + Nodejs) MySQL |
+| 📡 **gps-sender** | Send NMEA data from RTK source tractor antenna to farm-website | Kotlin |
+| 🎮 **games** | Various games | C#, Javascript, PHP, Java, Phaser |
 
 ---
 
@@ -87,7 +91,5 @@ philosophy: "Code like you plant — with patience and purpose"
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-2E8B57?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 <br/>
-
-*"The best software is grown, not just written."*
 
 </div>
