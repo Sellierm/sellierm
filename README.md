@@ -21,13 +21,14 @@
 ---
 
 ## 🌱 About Me
+
 ```yaml
 name: Mathieu Sellier
 location: France
 passions: [Computer Science, Agriculture]
 currently: Building tools at the intersection of tech & agri
 philosophy: "Code like you plant — with patience and purpose"
-` `` 
+```
 
 ---
 
@@ -52,6 +53,8 @@ philosophy: "Code like you plant — with patience and purpose"
 ---
 
 ## 🚀 Projects
+
+> *Update this section with your actual projects!*
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -88,4 +91,3 @@ philosophy: "Code like you plant — with patience and purpose"
 *"The best software is grown, not just written."*
 
 </div>
-```
