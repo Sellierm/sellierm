@@ -25,7 +25,7 @@
 ```yaml
 name: Mathieu Sellier
 location: France
-passions: Computer Science, Agriculture, Techonlogy
+passions: Computer Science, Agriculture, Technology
 currently: IT project manager at Clôtures et Portails de France
 philosophy: A good dev is a lazy dev
 ```
