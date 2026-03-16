@@ -72,12 +72,10 @@ philosophy: A good dev is a lazy dev
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sellierm&show_icons=true&theme=default&hide_border=true&title_color=2E8B57&icon_color=2E8B57&text_color=333333&bg_color=ffffff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sellierm&layout=compact&theme=default&hide_border=true&title_color=2E8B57&text_color=333333&bg_color=ffffff&hide=jupyter%20notebook,html" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sellierm&layout=compact&theme=default&hide_border=true&title_color=2E8B57&text_color=333333&bg_color=ffffff&hide=jupyter%20notebook,html,css" />
 
 <br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sellierm&theme=default&hide_border=true&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57)
 
 </div>
 
