@@ -62,7 +62,7 @@ philosophy: A good dev is a lazy dev
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🌾 **farm-website** | Field monitoring, crop management, local weather station connection & weather forecast API | Javascript (React + Nodejs + API rest), MySQL |
+| 🌾 **farm-react** | Field monitoring, crop management, local weather station connection & weather forecast API | Javascript (React + Nodejs + API rest), MySQL |
 | 📡 **gps-sender** | Send NMEA data from RTK source tractor antenna to farm-website | Kotlin |
 | 🎮 **games** | Various games | C#, Javascript, PHP, Java, Phaser |
 
