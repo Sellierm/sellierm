@@ -20,7 +20,7 @@
 
 ---
 
-## 🌱 About Me
+## About Me
 
 ```yaml
 name: Mathieu Sellier
@@ -32,7 +32,7 @@ philosophy: A good dev is a lazy dev
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -58,7 +58,7 @@ philosophy: A good dev is a lazy dev
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -68,10 +68,9 @@ philosophy: A good dev is a lazy dev
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sellierm&layout=compact&theme=default&hide_border=true&title_color=2E8B57&text_color=333333&bg_color=ffffff&hide=jupyter%20notebook,html,css" />
 
@@ -86,7 +85,7 @@ philosophy: A good dev is a lazy dev
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sellierm-181717?style=flat&logo=github)](https://github.com/Sellierm)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-2E8B57?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-2E8B57?style=flat&logo=gmail&logoColor=white)](mailto:math.sellier@yahoo.fr)
 
 <br/>
 
