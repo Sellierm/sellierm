@@ -26,9 +26,23 @@
 name: Mathieu Sellier
 location: France
 passions: Computer Science, Agriculture, Technology
-currently: IT project manager at Clôtures et Portails de France
+currently: IT Project Coordinator (work-study) at Clôtures et Portails de France
 philosophy: A good dev is a lazy dev
 ```
+
+---
+
+## Experience
+
+### 🏗️ IT Project Coordinator — Clôtures et Portails de France (CPF Groupe)
+*Work-study · Dec 2025 – Present*
+
+IT structuring for a fast-growing multi-entity group.
+
+- **ERP overhaul** — leading the Codial ERP redesign for one of the group's entities, working with business teams and the external integrator
+- **Self-hosted AI & automation stack** — building and running the group's internal platform: n8n workflows, local LLMs with Ollama, GLPI, monitoring
+- **Department AI agents** — setting up compartmentalized AI assistants for management, HR and treasury teams
+- **Automation** — replacing repetitive manual processes with workflows (because a good dev is a lazy dev)
 
 ---
 
@@ -36,6 +50,7 @@ philosophy: A good dev is a lazy dev
 
 **Languages**
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -47,7 +62,6 @@ philosophy: A good dev is a lazy dev
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-
 **Frameworks & Tools**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -55,6 +69,8 @@ philosophy: A good dev is a lazy dev
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
 ---
 
@@ -62,7 +78,7 @@ philosophy: A good dev is a lazy dev
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🌾 **Stelleros** | Field monitoring, crop management, local weather station connection & weather forecast API | Javascript (React + Nodejs + API rest), MySQL |
+| 🌾 **Stelleros** | Field monitoring, crop management, local weather station connection & weather forecast API | Rust (REST API) + React, MySQL |
 | 📡 **gps-sender** | Send NMEA data from RTK source tractor antenna to Stelleros | Kotlin |
 | 🎮 **games** | Various games | C#, Javascript, PHP, Java, Phaser |
 
