@@ -88,9 +88,27 @@ IT structuring for a fast-growing multi-entity group.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sellierm&layout=compact&theme=default&hide_border=true&title_color=2E8B57&text_color=333333&bg_color=ffffff&hide=jupyter%20notebook,html,css" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sellierm&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=2E8B57&icon_color=2E8B57&text_color=333333&bg_color=ffffff&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sellierm&layout=compact&hide_border=true&title_color=2E8B57&text_color=333333&bg_color=ffffff&hide=jupyter%20notebook,html,css&langs_count=8" />
 
 <br/>
+
+<img src="https://streak-stats.demolab.com?user=Sellierm&hide_border=true&background=ffffff&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57&sideLabels=333333&dates=666666" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sellierm&bg_color=ffffff&color=333333&line=2E8B57&point=1a1a1a&area=true&area_color=2E8B57&hide_border=true&title_color=2E8B57" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sellierm&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sellierm/sellierm/output/github-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Sellierm/sellierm/output/github-snake.svg" />
+</picture>
 
 </div>
 
