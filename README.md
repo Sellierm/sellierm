@@ -78,7 +78,7 @@ IT structuring for a fast-growing multi-entity group.
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🌾 **Stelleros** | Field monitoring, crop management, local weather station connection & weather forecast API | Rust (REST API) + React, MySQL |
+| 🌾 **Stelleros** | Field monitoring, crop management, local weather station connection & weather forecast API | Rust (REST API) + React Typescript), MySQL |
 | 📡 **gps-sender** | Send NMEA data from RTK source tractor antenna to Stelleros | Kotlin |
 | 🎮 **games** | Various games | C#, Javascript, PHP, Java, Phaser |
 
